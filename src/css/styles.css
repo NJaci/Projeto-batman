@@ -183,7 +183,7 @@ span {
     align-items: center;
 }
 
-@media(max-width: 896px){
+@media(max-width: 1000px){
     .footer-navigation{
         display: block;
     }
